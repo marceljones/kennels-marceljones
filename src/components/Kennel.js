@@ -33,7 +33,7 @@ export const Kennel = () => (
             <CustomerCard />
             <CustomerCard />
             <CustomerCard />
-             
+            <CustomerCard />
         </article>
         <h2>Employees</h2>
         <article className="employees">
@@ -42,14 +42,14 @@ export const Kennel = () => (
             <EmployeeCard />
              
         </article>
-        {/* <h2>Locations</h2>
+        <h2>Locations</h2>
         <article className="locations">
             <LocationCard />
+            
             <LocationCard />
-            <LocationCard />
-             
-        </article> */}
+        </article>
     </>
 )
+             
 
 
