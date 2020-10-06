@@ -1,0 +1,78 @@
+{
+    "animals": [
+        {
+            "id": 1,
+            "name": "Doodles",
+            "breed": "Poodle",
+            "customerId": 1,
+            "locationId": 2
+        },
+        {
+            "id": 2,
+            "name": "Tom",
+            "breed": "Tabby",
+            "customerId": 2,
+            "locationId": 3
+        },
+        {
+            "id": 3,
+            "name": "Doubie",
+            "breed": "Doberman",
+            "customerId": 3,
+            "locationId": 1
+        }
+    ],
+    "customers": [
+        {
+            "id": 3,
+            "name": "Charlie Reed",
+            "address": "100 Galveston Way"
+        },
+        {
+            "id": 2,
+            "name": "Donna Donovan",
+            "address": "2014 Harry Potter Rd."
+    
+        },
+        {
+            "id": 1,
+            "name": "Hannah Hall",
+            "address": "7002 Chestnut Ct"
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Cheryl Underwood",
+            "locationId": 1
+        },
+        {
+            "id": 1,
+            "name": "Matt Bomer",
+            "locationId": 1
+        },
+        {
+            "id": 1,
+            "name": "Wesley Snipes",
+            "locationId": 2
+        },
+        {
+            "id": 1,
+            "name": "Danny Glover",
+            "locationId": 2
+        }
+    ],
+    "locations": [
+        {
+            "id": 1,
+            "name": "Nashville North",
+            "address": "8422 Johnson Pike"
+        },
+        {
+            "id": 2,
+            "name": "Nashville South",
+            "address": "209 Emory Drive"
+        }
+        
+    ]
+}
