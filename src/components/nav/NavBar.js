@@ -2,12 +2,11 @@
 //are responsible for the presentation and behavior of the application.
 
 
-
 import React from "react"
 import { Link } from "react-router-dom"
 import "./NavBar.css"
 
-export const NavBar = (props) => {
+export const NavBar = () => {
     return (
         <ul className="navbar">
             <li className="navbar__item active">
@@ -27,4 +26,4 @@ export const NavBar = (props) => {
             </li>
         </ul>
     )
-    }
+}
